@@ -1,0 +1,16 @@
+{
+
+ "pessoas": [
+    {
+
+     "nome": "João",
+
+     "anoNascimento": 2000,
+
+     "altura": 1.70,
+
+     "massa": 100
+
+    }
+  ]
+}
