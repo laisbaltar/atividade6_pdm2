@@ -1,16 +1,64 @@
 {
-
- "pessoas": [
+  "pessoas": [
     {
-
-     "nome": "João",
-
-     "anoNascimento": 2000,
-
-     "altura": 1.70,
-
-     "massa": 100
-
+      "nome": "João",
+      "anoNascimento": 2000,
+      "altura": 1.70,
+      "massa": 100
+    },
+    {
+      "nome": "Maria",
+      "anoNascimento": 1995,
+      "altura": 1.65,
+      "massa": 62
+    },
+    {
+      "nome": "Carlos",
+      "anoNascimento": 1988,
+      "altura": 1.82,
+      "massa": 85
+    },
+    {
+      "nome": "Ana",
+      "anoNascimento": 2002,
+      "altura": 1.58,
+      "massa": 54
+    },
+    {
+      "nome": "Pedro",
+      "anoNascimento": 1990,
+      "altura": 1.75,
+      "massa": 78
+    },
+    {
+      "nome": "Julia",
+      "anoNascimento": 1998,
+      "altura": 1.68,
+      "massa": 65
+    },
+    {
+      "nome": "Lucas",
+      "anoNascimento": 2005,
+      "altura": 1.80,
+      "massa": 72
+    },
+    {
+      "nome": "Beatriz",
+      "anoNascimento": 1992,
+      "altura": 1.60,
+      "massa": 58
+    },
+    {
+      "nome": "Rafael",
+      "anoNascimento": 1985,
+      "altura": 1.78,
+      "massa": 90
+    },
+    {
+      "nome": "Fernanda",
+      "anoNascimento": 1999,
+      "altura": 1.72,
+      "massa": 68
     }
   ]
 }
